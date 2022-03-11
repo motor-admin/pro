@@ -1,2 +1,1 @@
-# pro
-Motor Admin Pro
+# [Motor Admin Pro](https://www.getmotoradmin.com/pro)
